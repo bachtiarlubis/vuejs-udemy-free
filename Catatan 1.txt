@@ -1,0 +1,25 @@
+# VueJS Installation
+1. Open cmd and paste point 2 command
+2. >npm install -g @vue/cli
+
+
+# Create VueJS Project
+1. Open cmd
+2. Go to folder you want.
+3 >vue create projectName [ENTER] ==> to create a new project  
+4. Select >Manually select features [ENTER]
+5. Select (only based on tutorial from udemy) these:
+5.1. >Choose Version [SPACE]
+5.2. >Babel [SPASE]
+5.3. >Router [SPASE]
+5.4. >Vuex [SPASE]
+5.5. >CSS Pre-processor [SPACE]
+5.6 [ENTER]
+6. Select >3.x Preview [ENTER]
+7. For Use history for router type >Y [ENTER]
+8. Pick CSS Pre-processor >Sass/SCSS (with dart-sass) [ENTER]
+9. Placing config >In dedicated config files [ENTER]
+10. Save this as project for.... just type [ENTER]
+11. Wait for creating project.
+12 cd to projectName folder
+13 run >npm run serve [ENTER]
